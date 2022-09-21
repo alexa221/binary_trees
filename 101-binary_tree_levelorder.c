@@ -22,6 +22,7 @@ size_t binary_tree_height(const binary_tree_t *tree)
 	else
 		return (0);
 }
+
 /**
  * print_at_level - print node, especific level
  * @tree: pointer to the root node of the tree to traverse
