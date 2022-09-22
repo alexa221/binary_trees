@@ -1,4 +1,5 @@
 #include "binary_trees.h"
+
 /**
  * avl_insert -function insert node in a avl tree
  * @tree: root of the tre to evaluate
