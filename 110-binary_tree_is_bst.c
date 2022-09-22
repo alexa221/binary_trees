@@ -17,7 +17,9 @@ int find_node(binary_tree_t *root, binary_tree_t *node)
 	if (node->n > root->n)
 		return (find_node(root->right, node));
 	return (0);
+
 }
+
 /**
  * croos_tree - cross the tree checking if each node exist correctly
  * @root: root node of the tree
