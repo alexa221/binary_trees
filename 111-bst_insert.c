@@ -5,6 +5,7 @@
  * @value: value to store in the node to be inserted.
  * Return: Always 0 (Success)
  */
+
 bst_t *bst_insert(bst_t **tree, int value)
 {
 	bst_t *aux = NULL;
