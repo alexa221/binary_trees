@@ -1,4 +1,5 @@
 #include "binary_trees.h"
+
 /**
  * bst_search -function find node in a tree
  * @tree: root of the tre to evaluate
