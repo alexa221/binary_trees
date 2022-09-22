@@ -1,5 +1,4 @@
 #include "binary_trees.h"
-
 /**
  * bst_remove -function remove node in a tree
  * @root: root of the tre to evaluate
